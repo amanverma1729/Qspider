@@ -1,4 +1,4 @@
-public class SecondMax {
+public class SecondMaxDistinct {
     public static void main(String[] args) {
 
         int[] a = {10, 20, 50, 60,99, 8, 99};
@@ -24,3 +24,5 @@ public class SecondMax {
         System.out.println("Second Maximum = " + secondMax);
     }
 }
+    
+
