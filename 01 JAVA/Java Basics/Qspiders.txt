@@ -1,0 +1,18 @@
+class skilldevelopemtInst {
+    public static void main (String[] args){
+
+System.out.println("Name: Qspider");
+System.out.println("Founder of Qspider: Mr. Harish");
+System.out.println("established:in 2008");
+System.out.println("no. of employee: 150+");
+System.out.println("Net worth: 1000CR");
+System.out.println("No of branches:75");
+System.out.println("Headoffice:Banglore");
+System.out.println("No of student enroll i a year: 5000 students");
+System.out.println("Placed student:4 Lakhs+");
+
+
+
+}
+
+}
